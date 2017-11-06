@@ -1,0 +1,28 @@
+.nav li {
+  padding : 3px;
+  margin : 2px 5px;
+}
+
+table, tr, th, td {
+  /*border: 1px solid black;
+  text-align: center;
+*/
+}
+table td, table th {
+  padding : 4px;
+}
+
+.container-all-forms {
+  margin: auto;
+}
+
+.container-form {
+
+}
+
+.form-update {
+
+}
+.container-form label, .container-form select {
+  display: block;
+}

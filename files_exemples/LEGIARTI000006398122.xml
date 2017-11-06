@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+	<META>
+		<META_COMMUN>
+			<ID>LEGIARTI000006398122</ID>
+			<ANCIEN_ID>ABAXXXXXXXX5X00001AAXXAA</ANCIEN_ID>
+			<ORIGINE>LEGI</ORIGINE>
+			<URL>article/LEGI/ARTI/00/00/06/39/81/LEGIARTI000006398122.xml</URL>
+			<NATURE>Article</NATURE>
+		</META_COMMUN>
+			<META_SPEC>
+				<META_ARTICLE>
+				<NUM>1</NUM>
+
+				<ETAT>ABROGE</ETAT>
+
+				<DATE_DEBUT>1952-06-29</DATE_DEBUT>
+				<DATE_FIN>2001-01-01</DATE_FIN>
+
+
+				<TYPE>AUTONOME</TYPE>
+			</META_ARTICLE>
+		</META_SPEC>
+	</META>
+	<CONTEXTE>
+		<TEXTE autorite="" cid="LEGITEXT000006070666" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="">
+		<TITRE_TXT c_titre_court="Code des instruments monétaires et des médailles" debut="1952-06-29" fin="2999-01-01" id_txt="LEGITEXT000006070666">Code des instruments monétaires et des médailles</TITRE_TXT>
+		<TM>
+		<TITRE_TM debut="1952-06-29" fin="2999-01-01" id="LEGISCTA000006088035">Chapitre I : Monnaies et médailles</TITRE_TM>
+		<TM>
+		<TITRE_TM debut="1952-06-29" fin="2999-01-01" id="LEGISCTA000006116670">Section I : Fabrication des monnaies et médailles</TITRE_TM>
+		<TM>
+		<TITRE_TM debut="1952-06-29" fin="2005-08-25" id="LEGISCTA000006135572">Paragraphe I : Frappe des monnaies métalliques.</TITRE_TM>
+		</TM>
+		</TM>
+		</TM>
+		</TEXTE>
+	</CONTEXTE>
+
+	<VERSIONS>
+		<VERSION etat="ABROGE">
+			<LIEN_ART debut="1952-06-29" etat="ABROGE" fin="2001-01-01" id="LEGIARTI000006398122" num="1" origine="LEGI"/>
+			</VERSION>
+	</VERSIONS>
+	<NOTA>
+	<CONTENU/>
+	</NOTA>
+	<BLOC_TEXTUEL>
+		<CONTENU>
+		<br/>   La fabrication des monnaies est exécutée par voie de régie administrative, sous l'autorité du ministre de l'économie et des finances.<br/>
+		<br/>
+		</CONTENU>
+	</BLOC_TEXTUEL>
+	<LIENS>
+		<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CODIFICATION">Décret 52-751 1952-06-26</LIEN>
+		<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Décret 52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952</LIEN>
+		<LIEN cidtexte="JORFTEXT000000511672" datesignatexte="1958-04-03" id="JORFTEXT000000511672" naturetexte="LOI" nortexte="" num="" numtexte="58-346" sens="source" typelien="CODIFICATION">Loi 58-346 1958-04-03 (validation)</LIEN>
+		<LIEN cidtexte="JORFTEXT000000574488" datesignatexte="2999-01-01" id="JORFTEXT000000574488" naturetexte="RAPPORT" nortexte="ECOX0000098R" num="" numtexte="" sens="source" typelien="ABROGATION">Ordonnance 2000-1223 2000-12-14 art. 4 I 2° JORF 16 décembre 2000 en vigueur le 1er janvier 2001</LIEN>
+		<LIEN cidtexte="JORFTEXT000000574489" datesignatexte="2000-12-14" id="LEGIARTI000006716763" naturetexte="ORDONNANCE" nortexte="ECOX0000098R" num="4" numtexte="2000-1223" sens="cible" typelien="CITATION">Rapport - art. 4 (V)</LIEN>
+		<LIEN cidtexte="LEGITEXT000006070666" datesignatexte="2999-01-01" id="LEGIARTI000006398130" naturetexte="CODE" nortexte="" num="3" numtexte="" sens="cible" typelien="CITATION">Code des instruments monétaires et des médailles - art. 3 (Ab)</LIEN>
+		<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006644221" naturetexte="CODE" nortexte="" num="L121-2" numtexte="" sens="source" typelien="CONCORDE">Code monétaire et financier - art. L121-2 (M)</LIEN>
+	</LIENS>
+</ARTICLE>
